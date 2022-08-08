@@ -1,0 +1,13 @@
+.serachipt{
+    border-style: none;
+    width: 400px;
+    border-bottom: 1px solid #ccc;
+    margin-left: 20px;
+    height: 30px;
+    margin-bottom: 10px;
+}
+.search-box{
+    background-color: aquamarine;
+    height: 50px;
+    padding: 10px;
+}

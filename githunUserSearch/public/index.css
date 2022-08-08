@@ -1,0 +1,10 @@
+.box{
+    height: 800px;
+    width: 800px;
+    text-align: center;
+    margin-left: 30%;
+}
+body{
+    background-attachment: fixed;
+    background-color: rgb(196, 218, 199);
+}

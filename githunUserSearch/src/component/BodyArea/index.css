@@ -1,0 +1,16 @@
+.user{
+    width: 125px;
+    height: 125px;
+    margin: 34px;
+    float: left;
+}
+.container{
+    height: 820px;
+    width: 800px;
+    background-color: rgb(128, 190, 159);
+    overflow: auto;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
