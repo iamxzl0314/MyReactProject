@@ -18,11 +18,6 @@ export default function SearchArea(props) {
       console.log(error)
       props.status.setError(error)
     })
-
-
-
-
-
   }
 
   return (
